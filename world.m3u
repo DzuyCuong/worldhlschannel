@@ -1,0 +1,104 @@
+#EXTM3U
+#EXTINF:-1 group-title="turk",TRT1
+https://worldhlschannel.netlify.app/turk/trt1.m3u8
+#EXTINF:-1 group-title="turk",TRT3 Spor
+https://worldhlschannel.netlify.app/turk/trt3spor.m3u8
+#EXTINF:-1 group-title="turk",TRT Haber
+https://worldhlschannel.netlify.app/turk/trthaber.m3u8
+#EXTINF:-1 group-title="turk",TRT Muzik
+https://worldhlschannel.netlify.app/turk/trtmuzik.m3u8
+#EXTINF:-1 group-title="turk",TRT Cocuk
+https://worldhlschannel.netlify.app/turk/trtcocuk.m3u8
+#EXTINF:-1 group-title="turk",ATV
+https://worldhlschannel.netlify.app/turk/atv.m3u8
+#EXTINF:-1 group-title="turk",AHaber
+https://worldhlschannel.netlify.app/turk/ahaber.m3u8
+#EXTINF:-1 group-title="turk",ASpor
+https://worldhlschannel.netlify.app/turk/aspor.m3u8
+#EXTINF:-1 group-title="turk",Show
+https://worldhlschannel.netlify.app/turk/show.m3u8
+#EXTINF:-1 group-title="turk",Star
+https://worldhlschannel.netlify.app/turk/star.m3u8
+#EXTINF:-1 group-title="turk",Fox
+https://worldhlschannel.netlify.app/turk/fox.m3u8
+#EXTINF:-1 group-title="turk",TV8
+https://worldhlschannel.netlify.app/turk/tv8.m3u8
+#EXTINF:-1 group-title="turk",TGRT Haber
+https://worldhlschannel.netlify.app/turk/tgrthaber.m3u8
+#EXTINF:-1 group-title="turk",NTV
+https://worldhlschannel.netlify.app/turk/ntv.m3u8
+#EXTINF:-1 group-title="turk",Kanal D
+https://worldhlschannel.netlify.app/turk/kanald.m3u8
+#EXTINF:-1 group-title="turk",Kanal 7
+https://worldhlschannel.netlify.app/turk/kanal7.m3u8
+#EXTINF:-1 group-title="turk",Bloomberg HT
+https://worldhlschannel.netlify.app/turk/bloomberght.m3u8
+#EXTINF:-1 group-title="turk",360
+https://worldhlschannel.netlify.app/turk/360.m3u8
+#EXTINF:-1 group-title="turk",Kanal D
+https://worldhlschannel.netlify.app/turk/kanald.m3u8
+#EXTINF:-1 group-title="turk",24
+https://worldhlschannel.netlify.app/turk/24.m3u8
+
+#EXTINF:-1 group-title="france",TF1
+https://worldhlschannel.netlify.app/france/tf1.m3u8
+#EXTINF:-1 group-title="france",France 2
+https://worldhlschannel.netlify.app/france/fr2.m3u8
+#EXTINF:-1 group-title="france",France 3
+https://worldhlschannel.netlify.app/france/fr3.m3u8
+#EXTINF:-1 group-title="france",M6
+https://worldhlschannel.netlify.app/france/m6.m3u8
+#EXTINF:-1 group-title="france",Arte
+https://worldhlschannel.netlify.app/france/arte.m3u8
+#EXTINF:-1 group-title="france",C8
+https://worldhlschannel.netlify.app/france/c8.m3u8
+#EXTINF:-1 group-title="france",W9
+https://worldhlschannel.netlify.app/france/w9.m3u8
+#EXTINF:-1 group-title="france",TMC
+https://worldhlschannel.netlify.app/france/tmc.m3u8
+#EXTINF:-1 group-title="france",TFX
+https://worldhlschannel.netlify.app/france/tfx.m3u8
+#EXTINF:-1 group-title="france",NRJ12
+https://worldhlschannel.netlify.app/france/nrj12.m3u8
+#EXTINF:-1 group-title="france",BFMTV
+https://worldhlschannel.netlify.app/france/bfmtv.m3u8
+#EXTINF:-1 group-title="france",CSTAR
+https://worldhlschannel.netlify.app/france/cstar.m3u8
+#EXTINF:-1 group-title="france",TF1 Series Films
+https://worldhlschannel.netlify.app/france/tf1seriesfilms.m3u8
+#EXTINF:-1 group-title="france",Le Equipe 21
+https://worldhlschannel.netlify.app/france/leequipe21.m3u8
+#EXTINF:-1 group-title="france",6ter
+https://worldhlschannel.netlify.app/france/6ter.m3u8
+#EXTINF:-1 group-title="france",Cherie25
+https://worldhlschannel.netlify.app/france/cherie25.m3u8
+
+#EXTINF:-1 group-title="germany",ARD
+https://worldhlschannel.netlify.app/germany/ard.m3u8
+#EXTINF:-1 group-title="germany",ZDF
+https://worldhlschannel.netlify.app/germany/zdf.m3u8
+#EXTINF:-1 group-title="germany",RTL
+https://worldhlschannel.netlify.app/germany/rtltv.m3u8
+#EXTINF:-1 group-title="germany",PRO7
+https://worldhlschannel.netlify.app/germany/pro7.m3u8
+#EXTINF:-1 group-title="germany",SAT.1
+https://worldhlschannel.netlify.app/germany/sat1.m3u8
+#EXTINF:-1 group-title="germany",RTLNitro
+https://worldhlschannel.netlify.app/germany/rtlnitro.m3u8
+#EXTINF:-1 group-title="germany",RTL2
+https://worldhlschannel.netlify.app/germany/rtl2tv.m3u8
+#EXTINF:-1 group-title="germany",SAT.1 GOLD
+https://worldhlschannel.netlify.app/germany/sat1gold.m3u8
+#EXTINF:-1 group-title="germany",Super RTL
+https://worldhlschannel.netlify.app/germany/superrtl.m3u8
+#EXTINF:-1 group-title="germany",Kabel 1
+https://worldhlschannel.netlify.app/germany/kabel1.m3u8
+#EXTINF:-1 group-title="germany",RTL
+https://worldhlschannel.netlify.app/germany/rtltv.m3u8
+
+#EXTINF:-1 group-title="italia",Rai 1
+https://worldhlschannel.netlify.app/germany/rai1.m3u8
+#EXTINF:-1 group-title="italia",Rai 2
+https://worldhlschannel.netlify.app/germany/rai2.m3u8
+#EXTINF:-1 group-title="italia",Rai 3
+https://worldhlschannel.netlify.app/germany/rai3.m3u8
